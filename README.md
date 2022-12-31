@@ -1,6 +1,6 @@
 - Hi, I’m Muhsin TASDELEN
 - I’m interested in html,css,javascript 
-- I’m currently learning react
+- I’m currently learning ON react
 - I’m looking to collaborate on ...
 - How to reach me ...
 
